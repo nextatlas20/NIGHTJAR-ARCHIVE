@@ -1,0 +1,4 @@
+vault_id	label	valid_replicas	certified_copies	certified_bytes
+VAULT-CEDAR	Cedar Annex	3	1	1200
+VAULT-EMBER	Ember Room	3	2	1800
+VAULT-LARK	Lark Offsite	3	0	0
